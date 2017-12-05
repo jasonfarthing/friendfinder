@@ -1,4 +1,4 @@
-var friends = [
+var friendArray = [
     {
         "routeName": "nick",
         "name": "Nick",
@@ -53,4 +53,4 @@ var friends = [
 
 ]
 
-module.exports = friends;
+module.exports = friendArray;
